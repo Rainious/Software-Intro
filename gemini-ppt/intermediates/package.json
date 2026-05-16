@@ -1,0 +1,9 @@
+{
+  "name": "gemini-ppt",
+  "version": "1.0.0",
+  "description": "PPT generation script",
+  "main": "generate_ppt.js",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
